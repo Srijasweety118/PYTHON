@@ -1,0 +1,1 @@
+writing 10 into file

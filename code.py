@@ -1,0 +1,15 @@
+
+code=int(input("enter the code"))
+name=input("enter the name")
+course=input("enter the corse")
+fee=float(input("enter the fee"))
+m1,m2,m3=int(input()),int(input()),int(input())
+
+print("total=m1+m2+m3")
+print("avg=total//3")
+print("code",code)
+print("name",name)
+print("course",course)
+print("fee",fee)
+print('m1\t m2\t m3\t total\t avg\t')
+print(m1,'\t',m2,'\t',m3,'\t')
